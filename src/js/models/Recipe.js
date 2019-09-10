@@ -73,7 +73,7 @@ export default class Recipe {
 
                 objIng = {
                     //unitIndex = 1
-                    count: count.toFixed(1),   //1.3333
+                    count: count,
                     unit: arrIng[unitIndex],    //'cup'
                     ingredient: arrIng.slice(unitIndex + 1).join(' ')   //'shortening'
                 }
