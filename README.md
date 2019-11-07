@@ -6,4 +6,4 @@ See The Demo:
 1.) Open this link: https://forkify-agcy.netlify.com/
 2.) Enter any dish.
 3.) You will be able to see different recipe for same dish.
-4.) Choose and one to view it in detail.
+4.) Choose any recipe to view it in detail.
