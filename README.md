@@ -7,3 +7,6 @@ See The Demo:
 2.) Enter any dish.
 3.) You will be able to see variety recipes for the same dish.
 4.) Choose any recipe to view it in detail.
+
+
+Note  :- the api support for forkify no longer exists. 
